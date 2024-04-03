@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/React-form_Portal_TableMap/static/css/main.f855e6bc.css",
+    "main.js": "/React-form_Portal_TableMap/static/js/main.7f19bf81.js",
+    "static/js/592.507d987e.chunk.js": "/React-form_Portal_TableMap/static/js/592.507d987e.chunk.js",
+    "index.html": "/React-form_Portal_TableMap/index.html",
+    "main.f855e6bc.css.map": "/React-form_Portal_TableMap/static/css/main.f855e6bc.css.map",
+    "main.7f19bf81.js.map": "/React-form_Portal_TableMap/static/js/main.7f19bf81.js.map",
+    "592.507d987e.chunk.js.map": "/React-form_Portal_TableMap/static/js/592.507d987e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.7f19bf81.js"
+  ]
+}
