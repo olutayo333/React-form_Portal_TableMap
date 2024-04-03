@@ -13,7 +13,7 @@ function App() {
         <Route path="/" element={<Portal/>}/>
         <Route path="/form" element={<FormikForm/>}     />
         <Route path="/portal" element={<Portal/>} />
-        {/* <Route path="/*" element={<FormikForm/>}/> */}
+        <Route path="/*" element={<FormikForm/>}/>
       </Routes>
     </BrowserRouter>
   );
